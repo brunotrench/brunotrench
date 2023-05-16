@@ -4,6 +4,7 @@
 - ✔ Formado em Sistemas de Informação pela ICMC - USP - São Carlos
 - ✔ Especialista em Gerenciamento de Projetos pela ESALQ - USP - Piracicaba
 - 🌱 Pós graduação em andamento na área de Ciência de Dados e suas Aplicações pela UTFPR
+- 🌱 Pós graduação em andamento na área de Inovação, Empreendedorismo e Projetos na Economia Digital pela Universidade de Barcelona
 
 <div> 
   <a href="https://www.linkedin.com/in/bruno-barrios-trench-21b863153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
